@@ -12,4 +12,4 @@ Template project for the [QT 6 Framework](https://doc.qt.io/) with C++17.
 ## Workflow
 **QT Creator:** The project can be opened from the CMakeLists.txt file. Learn more about using QT Creator [here](https://doc.qt.io/qtcreator/).
 
-**VS Code:** Install the recommended extensions. When the CMake extension requests a kit, select the QT Compiler. If you do not see the QT compilerappear, make sure you have installed the QT C++ extension and gone through setup notifications. When you select a kit, your project will automatically configure. Once it has finished configuring, you can click the triangle run button in the status bar to build/run the project.
+**VS Code:** Install the recommended extensions. When the CMake extension requests a kit, select the QT Compiler. If you do not see the QT compiler in the list, make sure you have installed the QT C++ extension and gone through setup notifications. You may have to restart vscode after installing the extensions. When you select a kit, your project will automatically configure. Once it has finished configuring, you can click the triangle run button in the status bar to build/run the project.
